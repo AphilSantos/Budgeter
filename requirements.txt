@@ -1,0 +1,2 @@
+streamlit==1.26.0  # Replace with your version of Streamlit if different
+Pillow==10.0.0     # Required for handling images (like receipts)

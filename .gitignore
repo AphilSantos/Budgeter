@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+virt/
+env/
+.venv/
+.idea/
+.vscode/
+
+# Streamlit static files
+.streamlit/
+
+# SQLite database
+*.db
+
+# Ignore secrets and environment files
+.env
+secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
